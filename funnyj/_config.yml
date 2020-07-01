@@ -98,4 +98,5 @@ theme: yun
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/FunnyJ/FunnyJ.github.io
